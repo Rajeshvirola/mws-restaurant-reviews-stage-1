@@ -6,7 +6,7 @@ I was provided with the code for a restaurant reviews website. This code had a l
 # How to run the project
 To run the project, download or clone the repository in your computer:
 
-`$ git clone https://github.com/yourname/Restaurant-Reviews-App-Stage-1.git`
+`$ git clone https://github.com/Rajeshvirola/mws-restaurant-reviews-stage-1.git`
 
 and follow the instructions below:
 
