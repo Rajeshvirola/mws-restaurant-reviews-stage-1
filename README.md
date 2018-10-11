@@ -14,19 +14,18 @@ and follow the instructions below:
   simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer.
 
 * In a terminal (like Git Bash, Cygwin or the Windows terminal), check the version of Python you have: `python -V`. If you         
-  have Python 2.x, spin up the server with `python -m SimpleHTTPServer 8000` (or some other port, if port 8000 is already in use.) For Python 3.x, you can use `python3 -m http.server 8000` or `python -m http.server 8000`. If you don't have Python installed, navigate to Python's [website] (https://www.python.org/) to download and install the software.
+  have Python 2.x, spin up the server with `python -m SimpleHTTPServer 8000` (or some other port, if port 8000 is already in use.) For Python 3.x, you can use `python3 -m http.server 8000` or `python -m http.server 8000`. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
 
 * With your server running, visit the site: `http://localhost:8000`. You can now see the live site.
 # Credits & Tools Used
 * Starter code by Udacity.
-* [Leafletjs] (https://leafletjs.com/), an open-source JavaScript library for mobile-friendly interactive maps, & [Mapbox]    
+* [Leafletjs](https://leafletjs.com/), an open-source JavaScript library for mobile-friendly interactive maps, & [Mapbox] 
   (https://www.mapbox.com/), an open source mapping         
   platform for custom designed maps.
-* Presentations by [Mohammed Riaad] (https://www.youtube.com/watch?v=TxXwlOAXUko).
-* [Lighthouse] (https://developers.google.com/web/tools/lighthouse/), an open-source [(GitHub repository)]
-  (https://github.com/GoogleChrome/lighthouse), automated tool for improving the quality of web pages. I used it as an  
+* Presentations by [Mohammed Riaad](https://www.youtube.com/watch?v=TxXwlOAXUko).
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/), an open-source [(GitHub repository)](https://github.com/GoogleChrome/lighthouse), automated tool for improving the quality of web pages. I used it as an  
   index mainly for Accessibility issues.
-* [Normalize.css] (https://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
+* [Normalize.css](https://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
 
 # Mobile Web Specialist Certification Course
 #### _Three Stage Course Material Project - Restaurant Reviews_
