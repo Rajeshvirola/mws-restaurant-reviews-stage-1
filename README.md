@@ -19,8 +19,7 @@ and follow the instructions below:
 * With your server running, visit the site: `http://localhost:8000`. You can now see the live site.
 # Credits & Tools Used
 * Starter code by Udacity.
-* [Leafletjs](https://leafletjs.com/), an open-source JavaScript library for mobile-friendly interactive maps, & [Mapbox] 
-  (https://www.mapbox.com/), an open source mapping         
+* [Leafletjs](https://leafletjs.com/), an open-source JavaScript library for mobile-friendly interactive maps, & [Mapbox](https://www.mapbox.com/), an open source mapping         
   platform for custom designed maps.
 * Presentations by [Mohammed Riaad](https://www.youtube.com/watch?v=TxXwlOAXUko).
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/), an open-source [(GitHub repository)](https://github.com/GoogleChrome/lighthouse), automated tool for improving the quality of web pages. I used it as an  
