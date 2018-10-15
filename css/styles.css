@@ -389,6 +389,12 @@ label {
   #reviews-container h2 {
     text-align: center;
   }
+  .filter-options {
+    display: flex;
+    flex-direction: column;
+    font-size: 12pt;
+    height: auto;
+   }	
 }
 
 @media only screen and (min-width: 750px) {
